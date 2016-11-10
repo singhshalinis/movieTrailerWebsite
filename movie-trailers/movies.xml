@@ -1,0 +1,53 @@
+<movies> 
+    
+    <movie>
+        <movie_title>Rio</movie_title>        
+        <movie_storyline>Rio, a comedy adventure about taking a walk on the wild side. Blu is a domesticated Macaw who never learned to fly, living a comfortable life with his owner and best friend Linda in the small town of Moose Lake, Minnesota. Blu and Linda think he's the last of his kind, but when they learn about another Macaw who lives in Rio de Janeiro, they head to the faraway and exotic land to find Jewel, Blu's female counterpart.</movie_storyline>        
+        <poster_image>https://upload.wikimedia.org/wikipedia/en/b/bb/Rio2011Poster.jpg</poster_image>        
+        <trailer_youtube>https://www.youtube.com/watch?v=P1GRO31ve5Q</trailer_youtube>
+    </movie>
+    
+    <movie>
+        <movie_title>Kung Fu Panda 3</movie_title>        
+        <movie_storyline>In the Spirit Realm, Grandmaster Oogway fights against an adversary named Kai, who has defeated other kung fu masters in the realm and taken their qi, turning them into small jade charms. Oogway willingly gives in and also has his qi stolen, but not before warning Kai that the Dragon Warrior, Po, will stop him.</movie_storyline>        
+        <poster_image>https://upload.wikimedia.org/wikipedia/en/e/e6/Kung_Fu_Panda_3_poster.jpg</poster_image>        
+        <trailer_youtube>https://www.youtube.com/watch?v=10r9ozshGVE</trailer_youtube>
+    </movie>
+    
+    <movie>
+        <movie_title>Up</movie_title>        
+        <movie_storyline>From Disney-Pixar comes a comedy adventure about 78-year-old balloon salesman Carl Fredricksen, who finally fulfills his lifelong dream of a great adventure when he ties thousands of balloons to his house and flies away to the wilds of South America.</movie_storyline>        
+        <poster_image>https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg</poster_image>        
+        <trailer_youtube>https://www.youtube.com/watch?v=pkqzFUhGPJg</trailer_youtube>
+    </movie>
+    
+    <movie>
+        <movie_title>Finding Dory</movie_title>        
+        <movie_storyline>When Dory suddenly remembers that she has a family out there who may be looking for her, the trio takes off on a life-changing adventure across the ocean to California's prestigious Marine Life Institute, a rehabilitation center and aquarium. In an effort to find her mom and dad, Dory enlists the help of three of the MLI's most intriguing residents: Hank, a cantankerous octopus who frequently gives employees the slip; Bailey, a beluga whale who is convinced his biological sonar skills are on the fritz; and Destiny, a nearsighted whale shark. Deftly navigating the complex inner workings of the MLI, Dory and her friends discover the magic within their flaws, friendships and family.</movie_storyline>        
+        <poster_image>https://upload.wikimedia.org/wikipedia/en/3/3e/Finding_Dory.jpg</poster_image>        
+        <trailer_youtube>https://www.youtube.com/watch?v=iG0P6bjyUNI</trailer_youtube>
+    </movie>
+    
+    <movie>
+        <movie_title>Avatar</movie_title>        
+        <movie_storyline>Avatar is the story of an ex-Marine who finds himself thrust into hostilities on an alien planet filled with exotic life forms. As an Avatar, a human mind in an alien body, he finds himself torn between two worlds, in a desperate fight for his own survival and that of the indigenous people.</movie_storyline>        
+        <poster_image>https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg</poster_image>        
+        <trailer_youtube>https://www.youtube.com/watch?v=1EnL7vUmvQ4</trailer_youtube>
+    </movie>
+    
+    <movie>
+        <movie_title>Toy Story</movie_title>        
+        <movie_storyline>In a world where toys are living things who pretend to be lifeless when their owners are present, a group of toys owned by a six-year-old boy, Andy Davis, are caught off-guard when Andy's birthday party is moved up a week, as Andy, his single mother and infant sister Molly are preparing to move the following week."</movie_storyline>        
+        <poster_image>https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg</poster_image>        
+        <trailer_youtube>https://www.youtube.com/watch?v=KYz2wyBy3kc</trailer_youtube>
+    </movie>
+    
+    <movie>
+        <movie_title>Anand</movie_title>        
+        <movie_storyline>Dr. Prakash Kulkarni is a skilled doctor working to assist the poor and needy, however, there is a weakness in him, which is to over-charge his more wealthy clients, even encourage and magnify minor aches and pains, much to the dislike of his more enthical colleague Dr. Bhaskar Bannerjee. It is because of his charitable disposition that both get to meet their new, terminally ill patient, Anand Saigal, who is aware that he has only a short time to live, but even during this short period he will manage to bring about positive change in the lives of both the doctors as well as the people around him.</movie_storyline>        
+        <poster_image>https://upload.wikimedia.org/wikipedia/en/3/36/Anand_music.jpg</poster_image>        
+        <trailer_youtube>https://www.youtube.com/watch?v=3vgDb4TQneA</trailer_youtube>
+    </movie>
+    
+</movies>
+

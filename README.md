@@ -1,5 +1,5 @@
-            The Movie Trailer Website
-            =========================
+The Movie Trailer Website
+=========================
 
 
 What is it? (Functionality)
